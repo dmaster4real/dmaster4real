@@ -1,11 +1,11 @@
-- 👋 Hi, I’m 9jabee
+- 👋 Hi, I’m ukpops
 - 👀 I’m interested in blogging ...
 - 🌱 I’m currently learning SEO ...
 - 💞️ I’m looking to collaborate on SEO ...
 - 📫 How to reach me https://9jabee.com/contact-us...
-- 🎶 https://9jabee.com/download-mp3
+- 🎶 https://ukpops.com/category/music
 
 <!---
-dmaster4real/dmaster4real is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ukpops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
